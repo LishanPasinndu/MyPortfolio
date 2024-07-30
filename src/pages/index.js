@@ -33,7 +33,7 @@ export default function Home() {
             </div>
             <div className="w-1/2 flex flex-col items-center self-center lg:w-full lg:text-center">
               <AnimatedText2 text="B&nbsp;A&nbsp;Lishan Pasindu" className="!text-5xl !text-left animate-bounce-slow !mb-4
-                xl:!text-4xl lg:!text-center lg:!text-5xl md:!text-4xl sm:!text-3xl md:mt-5
+                xl:!text-4xl lg:!text-center lg:!text-5xl md:!text-3xl sm:!text-2xl md:mt-5
               dark:text-yellow-100"/>
               <AnimatedText text="Turning Vision Into Reality With Code And Design." className="!text-6xl !text-left dark:text-light 
               xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl
