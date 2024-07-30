@@ -56,11 +56,11 @@ const about = () => {
                 Biography
               </h2>
               <p className="font-medium ">
-                Hi, I'm Lishan Pasindu wickrama , a web developer and UI/UX
+                Hi, I m Lishan Pasindu wickrama , a web developer and UI/UX
                 designer with a passion for creating beautiful, functional, and
                 user-centered digital experiences. With 2 years of experience in
                 the field. I am always looking for new and innovative ways to
-                bring my clients' visions to life.
+                bring my clients visions to life.
               </p>
 
               <p className="my-4 font-medium">
