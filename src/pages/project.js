@@ -164,7 +164,7 @@ This is a fully completed Portfolio develop by me.I am using html,css,PHP,Ajax,B
                 title="C&S Stock Managment System"
                 img={project6}
                 summury="
-                This is a fully completed Dektop application develop by me.I am using Java with oopc and develop using NteBeans IDE. 
+                This is a fully completed Dektop application develop by me.I am using Java with oopc and develop using NetBeans IDE. 
                 Main functions are this application, Login,View Dashboard, Stock Mnage, Ref Agent Managment, Products Managment, Cheque and Credit Management etc... "
                 link="/"
                 type="Dekstop Application Project"
@@ -179,7 +179,7 @@ This is a fully completed Portfolio develop by me.I am using html,css,PHP,Ajax,B
                 title="Blood donation System"
                 img={project7}
                 summury="
-This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NteBeans IDE.
+This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NetBeans IDE.
                 Main functions are this application, Register new Donaters , Search Donaters ,Mnage Donaters Details and Print Donaters Report etc... "
                 link="/"
                 type="Dekstop Application Project"
@@ -194,7 +194,7 @@ This is a fully completed Dekstop application develop by me.I am using Java with
                 title="Coffee Shop Dekstop App"
                 img={project8}
                 summury="
-This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NteBeans IDE.
+This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NetBeans IDE.
                 Main functions are this application Login and managing orders etc... "
                 link="/"
                 type="Dekstop Application Project"
@@ -209,7 +209,7 @@ This is a fully completed Dekstop application develop by me.I am using Java with
                 title="SHAN Optical Dekstop App"
                 img={project9}
                 summury="
-This is a fully completed Dekstop application Design by me.I am using Java with oopc and develop using NteBeans IDE.
+This is a fully completed Dekstop application Design by me.I am using Java with oopc and develop using NetBeans IDE.
                 I am design only UI for this project . Main User Interfaces are Home,Manage Daily Production, Manage Emplyee Detailes etc... "
                 link="/"
                 type="Dekstop Application Project"
@@ -224,7 +224,7 @@ This is a fully completed Dekstop application Design by me.I am using Java with 
                 title="Yaathra - LMS Dekstop App"
                 img={project10}
                 summury="
-This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NteBeans IDE.
+This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NetBeans IDE.
                 Main functions are this application, Managing students, Manging Teachers, Managing Subjects, Managing Class Managing Attendence, Managing Class Feeses and other functions etc... "
                 link="/"
                 type="Dekstop Application Project"
@@ -239,7 +239,7 @@ This is a fully completed Dekstop application develop by me.I am using Java with
                 title="Car Rental System  "
                 img={project11}
                 summury="
-This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NteBeans IDE.
+This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NetBeans IDE.
                 Main functions are this application, Managing cars, Manging Drivers, Managing Passenger, Managing Booking, View History and other functions etc... "
                 link="/"
                 type="Dekstop Application Project"
