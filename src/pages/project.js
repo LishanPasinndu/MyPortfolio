@@ -89,9 +89,9 @@ const Projects = () => {
                 Eshop is a fully completed E-Commerce web application develop by me.I am using html,css,PHP,Ajax,BootsTrap for this project and developing with VSC IDE. 
                 Main functions are this application, Register,Login,View product, Search,Buy,Add to cart,Checkout,Wishlist,Order History,Sell 
                 product etc...          "
-                link="/"
+                link="https://github.com/LishanPasinndu/eShop.git"
                 type="Web Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/eShop.git"
               />
             </div>
           </div>
