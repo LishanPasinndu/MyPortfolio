@@ -105,9 +105,9 @@ const Projects = () => {
 Sri Lal is a fully completed E-Commerce web application develop by me.I am using html,css,PHP,Ajax,BootsTrap for this project and developing with VSC IDE. 
                 Main functions are this application, Register,Login,View product, Search,Buy,Add to cart,Checkout,Wishlist,Order History,Sell 
                 product etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/SriLal.git"
                 type="Web Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/SriLal.git"
               />
             </div>
           </div>
@@ -121,9 +121,9 @@ Sri Lal is a fully completed E-Commerce web application develop by me.I am using
                Repay is a web application design by me.I am using html,css,PHP,Ajax,BootsTrap for this project and developing with VSC IDE. 
                 I am design only UI for this project . Main User Interfaces are Home,Profile,Regsiter & Login,My wallet,History,About etc... 
                 "
-                link="/"
+                link="https://github.com/LishanPasinndu/Repay.git"
                 type="Web Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/Repay.git"
               />
             </div>
           </div>
@@ -136,9 +136,9 @@ Sri Lal is a fully completed E-Commerce web application develop by me.I am using
                 summury="
                 Syntex solutions is a software company founded by me.I am develop website for this company. I am using html,css,PHP,Ajax,BootsTrap for this project and developing with VSC IDE. 
                 Main functions are this application Home,About,Work Process,Oure Services,Our Team,Contact us etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/Syntex-Solutions.git"
                 type="Web Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/Syntex-Solutions.git"
               />
             </div>
           </div>
@@ -151,9 +151,9 @@ Sri Lal is a fully completed E-Commerce web application develop by me.I am using
                 summury="
 This is a fully completed Portfolio develop by me.I am using html,css,PHP,Ajax,BootsTrap,JavaScript for this project and developing with VSC IDE. 
                 Main functions are this application, Home,About, My Project and Contact Me etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/LishanPasindu-Portfolio.git"
                 type="Web Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/LishanPasindu-Portfolio.git"
               />
             </div>
           </div>
@@ -166,9 +166,9 @@ This is a fully completed Portfolio develop by me.I am using html,css,PHP,Ajax,B
                 summury="
                 This is a fully completed Dektop application develop by me.I am using Java with oopc and develop using NetBeans IDE. 
                 Main functions are this application, Login,View Dashboard, Stock Mnage, Ref Agent Managment, Products Managment, Cheque and Credit Management etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/C-S.git"
                 type="Dekstop Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/C-S.git"
               />
             </div>
           </div>
@@ -181,9 +181,9 @@ This is a fully completed Portfolio develop by me.I am using html,css,PHP,Ajax,B
                 summury="
 This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NetBeans IDE.
                 Main functions are this application, Register new Donaters , Search Donaters ,Mnage Donaters Details and Print Donaters Report etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/Blood.git"
                 type="Dekstop Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/Blood.git"
               />
             </div>
           </div>
@@ -196,9 +196,9 @@ This is a fully completed Dekstop application develop by me.I am using Java with
                 summury="
 This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NetBeans IDE.
                 Main functions are this application Login and managing orders etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/Coffee-Shop.git"
                 type="Dekstop Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/Coffee-Shop.git"
               />
             </div>
           </div>
@@ -211,9 +211,9 @@ This is a fully completed Dekstop application develop by me.I am using Java with
                 summury="
 This is a fully completed Dekstop application Design by me.I am using Java with oopc and develop using NetBeans IDE.
                 I am design only UI for this project . Main User Interfaces are Home,Manage Daily Production, Manage Emplyee Detailes etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/SHAN-Optical.git"
                 type="Dekstop Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/SHAN-Optical.git"
               />
             </div>
           </div>
@@ -226,9 +226,9 @@ This is a fully completed Dekstop application Design by me.I am using Java with 
                 summury="
 This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NetBeans IDE.
                 Main functions are this application, Managing students, Manging Teachers, Managing Subjects, Managing Class Managing Attendence, Managing Class Feeses and other functions etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/Yaathra.git"
                 type="Dekstop Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/Yaathra.git"
               />
             </div>
           </div>
@@ -241,9 +241,9 @@ This is a fully completed Dekstop application develop by me.I am using Java with
                 summury="
 This is a fully completed Dekstop application develop by me.I am using Java with oopc and develop using NetBeans IDE.
                 Main functions are this application, Managing cars, Manging Drivers, Managing Passenger, Managing Booking, View History and other functions etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/Car-Rental.git"
                 type="Dekstop Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/Car-Rental.git"
               />
             </div>
           </div>
@@ -256,9 +256,9 @@ This is a fully completed Dekstop application develop by me.I am using Java with
                 summury="
 This is a fully completed Mobile application develop by me.I am using Java with oopc and develop using Android Studio IDE.
                 Main functions are this application Prduct buy, Add to Cart, Wishlist , Search, Category etc... "
-                link="/"
+                link="https://github.com/LishanPasinndu/Nadee-Clothing.git"
                 type="Mobile Application Project"
-                github="/"
+                github="https://github.com/LishanPasinndu/Nadee-Clothing.git"
               />
             </div>
           </div>
